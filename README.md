@@ -1,5 +1,18 @@
-# 💫 About Me:
-Building responsive web applications using the MERN stack (MongoDB, Express, React, Node.js).<br>Beginner-friendly open-source projects or simple web tools where I can contribute my CSS/SCSS skills.<br>Advanced backend logic and best practices for scaling MERN applications.<br>Full-stack development with a focus on SCSS architecture and building robust APIs.<br>Web design basics, CSS layouts, or my journey into the MERN stack.<br>I can spend hours tweaking CSS just to get that one pixel right! 😄
+## 🚀 About Me
+
+🔭 I’m currently working on  
+Building responsive web applications using the MERN stack (MongoDB, Express, React, Node.js).
+
+👯 I’m looking to collaborate on  
+Beginner-friendly open-source projects or simple web tools where I can contribute my CSS/SCSS skills.
+
+🤝 I’m looking for help with  
+Advanced backend logic and best practices for scaling MERN applications.
+
+🌱 I’m currently learning  
+Full-stack development with a focus on SCSS architecture and building robust APIs.
+
+I can spend hours tweaking CSS just to get that one pixel right! 😄
 
 
 ## 🌐 Socials:
